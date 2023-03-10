@@ -23,8 +23,8 @@ To install this project:
 ## Usage
 
 
-![alt text](assets/images/Screeshot1.png)
-![alt text](assets/images/Screeshot2.png)
+![alt text](Develop/assets/images/Screeshot1.png)
+![alt text](Develop/assets/images/Screeshot2.png)
 
 ## Credits
 

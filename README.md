@@ -22,9 +22,9 @@ To install this project:
 
 ## Usage
 
+<img src="Develop/assets/images/Screeshot1.png" alt="first screenshot">
+<img src="Develop/assets/images/Screeshot2.png" alt="second screenshot">
 
-![alt text](Develop/assets/images/Screeshot1.png)
-![alt text](Develop/assets/images/Screeshot2.png)
 
 ## Credits
 
